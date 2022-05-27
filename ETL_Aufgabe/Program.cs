@@ -106,9 +106,8 @@ namespace ETL_Aufgabe
             v1transform.LinkTo(dbDestination);
             v2transform.LinkTo(textDest);
             v2transform.LinkTo(dbDestination);
-            verein1.Execute();
-            verein2.Execute();
-            //Network.Execute(verein1, verein2);
+            Network.Execute(verein1);
+            Network.Execute(verein2);
         }
         public static string Sexconvert(string sex)
         {
