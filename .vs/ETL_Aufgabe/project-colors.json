@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63619590-b9c3-4b4e-ae61-af93fd63e497": {
+      "ProjectGuid": "63619590-b9c3-4b4e-ae61-af93fd63e497",
+      "DisplayName": "ETL_Aufgabe",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
